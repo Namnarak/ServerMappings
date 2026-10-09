@@ -43,3 +43,19 @@ You are free to use this data for anything you wish. As long as it abides by [ou
 ## Any other questions?
 
 Please join our [Lunar Client Developers Discord](https://discord.gg/3T9Atyb6pf) for any additional questions.
+
+---
+
+<!-- CYTECH_STAR_HISTORY:START -->
+
+## Star History
+
+<a href="https://star-history.dera.page/#Namnarak/ServerMappings&type=date&legend=top-left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=Namnarak/ServerMappings&type=date&legend=top-left&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=Namnarak/ServerMappings&type=date&legend=top-left" />
+    <img alt="GitHub star history for Namnarak/ServerMappings" src="https://star-history.dera.page/svg?repos=Namnarak/ServerMappings&type=date&legend=top-left" width="800" />
+  </picture>
+</a>
+
+<!-- CYTECH_STAR_HISTORY:END -->
