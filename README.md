@@ -1,4 +1,18 @@
-# Server Mappings
+<!-- CYTECH_README_REFRESH:START -->
+<div align="center">
+<a href="https://github.com/Namnarak/ServerMappings"><img width="100%" alt="Server Mappings banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:162016,100:22C55E&height=210&section=header&text=Server%20Mappings&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Public%20Minecraft%20server%20metadata%20and%20mappings&descAlignY=59&descSize=16"></a>
+
+<img alt="Project: Minecraft Data" src="https://img.shields.io/badge/PROJECT-Minecraft%20Data-22C55E?style=flat-square&labelColor=162016"> <img alt="Stack: Server Mappings" src="https://img.shields.io/badge/STACK-Server%20Mappings-22C55E?style=flat-square&labelColor=162016">
+
+<a href="https://github.com/Namnarak/ServerMappings">Source</a> · <a href="https://github.com/Namnarak/ServerMappings/issues">Issues</a> · <a href="https://github.com/Namnarak/ServerMappings/releases">Releases</a>
+
+</div>
+<!-- CYTECH_README_REFRESH:END -->
+
+---
+
+> [!NOTE]
+> The documentation and policies below come from the [Lunar Client ServerMappings](https://github.com/LunarClient/ServerMappings) project. Upstream ownership and usage terms are unchanged.
 
 ## Summary
 
